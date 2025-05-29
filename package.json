@@ -19,6 +19,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "@comunica/query-sparql": "^4.2.0",
     "axios": "^1.9.0",
     "cors": "^2.8.5",
@@ -27,5 +28,12 @@
     "morgan": "^1.10.0",
     "nodemon": "^3.1.10",
     "sparql-client-2": "^0.6.3"
+=======
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.10"
+>>>>>>> 56336a0e647ed480af2f025c58dc877a229f1344
   }
 }
